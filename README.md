@@ -1,0 +1,20 @@
+# Dashboard
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Websites</title>
+</head>
+<body>
+
+    <h1>Trading Websites</h1>
+
+    <ul>
+        <li><a href="https://www.nseindia.com" target="_blank">NSE India</a></li>
+        <li><a href="https://www.tradingview.com" target="_blank">TradingView</a></li>
+        <li><a href="https://zerodha.com" target="_blank">Zerodha</a></li>
+    </ul>
+
+</body>
+</html>
