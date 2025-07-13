@@ -78,7 +78,6 @@
             <li><a href="https://www.etmarkets.com" target="_blank">ET Markets</a></li>
             <li><a href="https://www.bloomberg.com" target="_blank">Bloomberg</a></li>
             <li><a href="https://www.reuters.com" target="_blank">Reuters</a></li>
-            <li><a href="https://www.finanzen.net" target="_blank">Finanzen.net</a></li>
             <li><a href="https://www.cnbc.com" target="_blank">CNBC</a></li>
             <li><a href="https://www.investing.com" target="_blank">Investing.com</a></li>
         </ul>
