@@ -81,15 +81,6 @@
             <li><a href="https://www.finanzen.net" target="_blank">Finanzen.net</a></li>
             <li><a href="https://www.cnbc.com" target="_blank">CNBC</a></li>
             <li><a href="https://www.investing.com" target="_blank">Investing.com</a></li>
-            <li><a href="https://www.stockcharts.com" target="_blank">StockCharts</a></li>
-            <li><a href="https://www.morningstar.com" target="_blank">MorningStar</a></li>
-            <li><a href="https://www.screener.in" target="_blank">Screener.in</a></li>
-            <li><a href="https://www.nifty50.com" target="_blank">Nifty50</a></li>
-            <li><a href="https://www.financialexpress.com" target="_blank">Financial Express</a></li>
-            <li><a href="https://www.sensex.com" target="_blank">Sensex</a></li>
-            <li><a href="https://www.indiainfoline.com" target="_blank">India Infoline</a></li>
-            <li><a href="https://www.sharekhan.com" target="_blank">Sharekhan</a></li>
-            <li><a href="https://www.smbcnikko.co.jp" target="_blank">SMBC Nikko</a></li>
         </ul>
         <div class="footer">
             <p>Powered by StockVerse</p>
