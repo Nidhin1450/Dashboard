@@ -82,7 +82,7 @@
             <li><a href="https://www.investing.com" target="_blank">Investing.com</a></li>
         </ul>
         <div class="footer">
-            <p>Powered by StockVerse</p>
+            <p>Created by Nidhin Raveendran</p>
         </div>
     </div>
 
